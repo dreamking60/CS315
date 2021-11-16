@@ -1,0 +1,1 @@
+cmd_/home/czh/Read_SCR/Read_SCR/nailgun.ko := ~/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/czh/Read_SCR/Read_SCR/nailgun.ko /home/czh/Read_SCR/Read_SCR/nailgun.o /home/czh/Read_SCR/Read_SCR/nailgun.mod.o ;  true
